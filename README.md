@@ -12,13 +12,13 @@
 karin根目录执行以下命令克隆仓库到本地
 
 ```bash
-git clone https://github.com/karinjs/karin-plugin-template.git ./plugins/karin-plugin-template
+git clone https://github.com/Fahaxikiii/karin-plugin-server-watcher.git ./plugins/karin-plugin-server-watcher
 ```
 
 ## 安装依赖
 
 ```bash
-pnpm install --filter=karin-plugin-template
+pnpm install --filter=karin-plugin-server-watcher
 ```
 
 
